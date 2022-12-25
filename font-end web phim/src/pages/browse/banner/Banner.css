@@ -1,0 +1,22 @@
+.banner-font {
+  width: 100%;
+  background-image: url();
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+
+.banner-font h1 {
+  color: wheat;
+}
+
+.banner-font button {
+  color: wheat;
+  background-color: rgba(5, 5, 4, 0.638);
+}
+
+.banner-font p {
+  color: wheat;
+  white-space: no;
+  text-overflow: ellipsis;
+  text-overflow: ellipsis;
+}

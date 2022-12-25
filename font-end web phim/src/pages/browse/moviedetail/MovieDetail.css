@@ -1,0 +1,25 @@
+.moviedetail-Font {
+  width: 100%;
+  display: flex;
+  background-color: black;
+  overflow: hidden;
+  position: fixed;
+  top: 40%;
+  left: 0%;
+  height: 60%;
+}
+
+.div1 {
+  width: 50%;
+  color: white;
+}
+.div1 h1 {
+  border-bottom-style: solid;
+  border-bottom-width: 5px;
+  border-color: gray;
+}
+
+.div2 {
+  width: 50%;
+  align-self: center;
+}

@@ -1,0 +1,42 @@
+.movielist-font {
+  width: 100%;
+  background-color: black;
+}
+
+/* .movielist-font h1 {
+  color: black;
+}
+
+.movielist-font ul {
+  width: auto;
+  padding-left: 0;
+  list-style: none;
+  display: grid;
+  grid-auto-flow: column;
+  grid-auto-columns: 14.5%;
+  overflow-x: scroll;
+}
+
+.movielist-font li {
+  max-width: 100%;
+  overflow: hidden;
+} */
+::-webkit-scrollbar {
+  height: 7px;
+  width: 5px;
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: gray;
+  border-radius: 10px;
+}
+
+/* .movielist-font img {
+  max-width: 95%;
+}
+
+.movielist-font li:hover img {
+  max-width: 100%;
+  transition: all 0.3s ease-in-out;
+  display: block;
+} */
